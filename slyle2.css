@@ -1,0 +1,91 @@
+.main{
+    background-color: darksalmon;
+    padding: 10px 20px 10px 20px;
+}
+.b1{
+    background-color: aqua;
+    width: 150px;
+    height: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+.b2{
+    background-color: aqua;
+    width: 150px;
+    height: 100px;
+    margin-right: 5%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+.b3{
+    background-color: aqua;
+    width: 150px;
+    height: 100px;
+    margin-right: 5%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+
+.b4{
+    background-color: aqua;
+    width: 150px;
+    height: 100px;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+.box1{
+    background-color: blue;
+    margin-left: 5%;
+    margin-right: 10%;
+    width: 500px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-bottom: 2%;
+    
+}
+.box2{
+    background-color: blue;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 500px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-bottom: 2%;
+}
+.box3{
+    background-color: blue;
+    margin-left: 10%;
+    margin-right: 5%;
+    width: 500px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-bottom: 2%;
+}
+.footer{
+    background-color: blueviolet;
+    text-align: center;
+    margin-bottom: 1%;
+    padding: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.logo{
+    background-color: rgb(248, 188, 24);
+    padding: 1%;
+    margin-bottom: 1.5%;
+    width: 45.5%;
+}
+.px{
+    margin-left: 5%;
+}
